@@ -1,0 +1,14 @@
+C:\Users\User\ConsoleApp&LoopsTask\ConsoleApp&LoopsTask\bin\Debug\net6.0\ConsoleApp&LoopsTask.exe
+C:\Users\User\ConsoleApp&LoopsTask\ConsoleApp&LoopsTask\bin\Debug\net6.0\ConsoleApp&LoopsTask.deps.json
+C:\Users\User\ConsoleApp&LoopsTask\ConsoleApp&LoopsTask\bin\Debug\net6.0\ConsoleApp&LoopsTask.runtimeconfig.json
+C:\Users\User\ConsoleApp&LoopsTask\ConsoleApp&LoopsTask\bin\Debug\net6.0\ConsoleApp&LoopsTask.dll
+C:\Users\User\ConsoleApp&LoopsTask\ConsoleApp&LoopsTask\bin\Debug\net6.0\ConsoleApp&LoopsTask.pdb
+C:\Users\User\ConsoleApp&LoopsTask\ConsoleApp&LoopsTask\obj\Debug\net6.0\ConsoleApp&LoopsTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\ConsoleApp&LoopsTask\ConsoleApp&LoopsTask\obj\Debug\net6.0\ConsoleApp&LoopsTask.AssemblyInfoInputs.cache
+C:\Users\User\ConsoleApp&LoopsTask\ConsoleApp&LoopsTask\obj\Debug\net6.0\ConsoleApp&LoopsTask.AssemblyInfo.cs
+C:\Users\User\ConsoleApp&LoopsTask\ConsoleApp&LoopsTask\obj\Debug\net6.0\ConsoleApp&LoopsTask.csproj.CoreCompileInputs.cache
+C:\Users\User\ConsoleApp&LoopsTask\ConsoleApp&LoopsTask\obj\Debug\net6.0\ConsoleApp&LoopsTask.dll
+C:\Users\User\ConsoleApp&LoopsTask\ConsoleApp&LoopsTask\obj\Debug\net6.0\refint\ConsoleApp&LoopsTask.dll
+C:\Users\User\ConsoleApp&LoopsTask\ConsoleApp&LoopsTask\obj\Debug\net6.0\ConsoleApp&LoopsTask.pdb
+C:\Users\User\ConsoleApp&LoopsTask\ConsoleApp&LoopsTask\obj\Debug\net6.0\ConsoleApp&LoopsTask.genruntimeconfig.cache
+C:\Users\User\ConsoleApp&LoopsTask\ConsoleApp&LoopsTask\obj\Debug\net6.0\ref\ConsoleApp&LoopsTask.dll
